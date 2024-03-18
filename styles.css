@@ -1,3 +1,8 @@
-h1, p {
+h1 {
   text-align: center;
+}
+
+fieldset {
+  width: 60%;
+  height: 100px;
 }
