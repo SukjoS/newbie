@@ -9,3 +9,7 @@ fieldset {
   margin: 0 auto;
   padding: 0 auto;
 }
+
+label {
+  display: block;
+}
